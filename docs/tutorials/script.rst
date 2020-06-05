@@ -5,7 +5,7 @@ Converting a script to Flambé
 ==============================
 
 In many situations, you may already have a script that performs your full training routine,
-and you would like to avoid doing any intergation work to leverage some of the tools in Flambé,
+and you would like to avoid doing any integration work to leverage some of the tools in Flambé,
 namely launching variants of the script on a large cluster, and using the Flambé logging system.
 
 For this particular use case, Flambé offers a ``Script`` component, which takes as input
